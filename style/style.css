@@ -1,0 +1,32 @@
+p{
+  height: 110px;
+  width: 300px;
+  overflow: scroll;
+}
+
+.satu{
+  background-color: #00FFFF;
+  outline-style: solid;
+  outline-color: #00FFFF;
+  outline-width: 0;
+  border-style: dotted;
+  border-color: red;
+  border-width: 10px;
+}
+
+.dua{
+  background-color: #00FFFF;
+  border-style: solid;
+  border-color: green;
+  border-width: thick;
+}
+
+.tiga{
+  background-color: #00FFFF;
+  outline-style: solid;
+  outline-color: #00FFFF;
+  outline-width: 0;
+  border-style: dashed;
+  border-color: blue;
+  border-width: 20px;
+}
